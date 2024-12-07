@@ -2,6 +2,7 @@ package JavaArrays;
 
 public class pairsArr {
     public static void pairsPrint(int numbers[]){
+        // it repersents total pairs
         int tp=0;
         for(int i=0;i<numbers.length;i++){
             int curr=numbers[i];
